@@ -4,7 +4,7 @@ using System.Text;
 
 namespace VENTA_CONTROL_INVENTARIO.Models
 {
-    internal class DetalleVenta
+    public class DetalleVenta
     {
     }
 }
